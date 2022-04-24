@@ -1,9 +1,3 @@
-/*
- * Milton Wiklund
- * 14-04-2022
- * Labb 2 - Dubbellänkad lista
- */
-
 #ifndef LABB2_LINKED_LIST_H
 #define LABB2_LINKED_LIST_H
 
