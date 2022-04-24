@@ -1,9 +1,3 @@
-/*
- * Milton Wiklund
- * 14-04-2022
- * Labb 2 - Dubbellänkad lista
- */
-
 #include <iostream>
 #include <cstdlib>
 
