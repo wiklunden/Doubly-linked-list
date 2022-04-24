@@ -1,9 +1,3 @@
-/*
- * Milton Wiklund
- * 14-04-2022
- * Labb 2 - Dubbellänkad lista
- */
-
 #include "linked_list.h"
 
 linked_list::linked_list() {
